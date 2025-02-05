@@ -1,0 +1,727 @@
+{
+   "checksum": "81066fef6d71a698a2a2fa0790115dce",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13332071061816534",
+            "date_last_used": "13359321605661680",
+            "guid": "02331955-4c9f-4e75-925b-59d49ae1ee31",
+            "id": "10",
+            "name": "Learn Data Structures and Algorithms | DSA tutorials | CodeChef",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation",
+            "visit_count": 0
+         }, {
+            "date_added": "13332071269626726",
+            "date_last_used": "13352039258801068",
+            "guid": "19c3c768-c02d-436d-a8f6-74ca8d36efd9",
+            "id": "11",
+            "name": "I compiled a list of almost all useful blogs ever published on Codeforces [update: till 09.06.2021] - Codeforces",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://codeforces.com/blog/entry/91363",
+            "visit_count": 0
+         }, {
+            "date_added": "13317769658526085",
+            "date_last_used": "13366403437991928",
+            "guid": "f6483a4c-8c8e-4832-9e71-771283beda24",
+            "id": "12",
+            "name": "ironport4",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ironport4.iiita.ac.in/B0001D0000N0000N0000F0000S0000R0004/172.27.12.162/http://www.google.com",
+            "visit_count": 0
+         }, {
+            "date_added": "13339606081887532",
+            "date_last_used": "13346072079398592",
+            "guid": "2f167c55-b0c4-4545-9a55-b2b13335df49",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Simform Solutions",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/SimformSolutionsPvtLtd",
+            "visit_count": 0
+         }, {
+            "date_added": "13349786130080891",
+            "date_last_used": "13357981959090649",
+            "guid": "5a73da2d-aa8c-46b4-ba19-72b16842acd6",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Strivers A2Z DSA Course/Sheet - Crack Any FAANG or PBCs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/",
+            "visit_count": 0
+         }, {
+            "date_added": "13366025092817202",
+            "date_last_used": "0",
+            "guid": "28dca6cf-0e06-4068-ae6c-0afc43c70e6a",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Programming - Interviewbit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.interviewbit.com/courses/programming/",
+            "visit_count": 0
+         }, {
+            "date_added": "13355484398629281",
+            "date_last_used": "0",
+            "guid": "b2004d2c-6f9b-46de-b9fa-f5fdc4d87868",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "TLE Eliminators",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tle-eliminators.com/cp-sheet",
+            "visit_count": 0
+         }, {
+            "date_added": "13366025084976140",
+            "date_last_used": "13366393475690225",
+            "guid": "e27ef74b-638c-4785-9fe0-6e99c4ffede3",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Practice",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://neetcode.io/practice",
+            "visit_count": 0
+         }, {
+            "date_added": "13343545438588262",
+            "date_last_used": "0",
+            "guid": "33c40263-e554-408d-a8cf-2d43318923d3",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IIITA - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/17E4iWyIBVwbVqKyRByqF7FJZ21mVfynL",
+            "visit_count": 0
+         }, {
+            "date_added": "13378294778211600",
+            "date_last_used": "13381001869226905",
+            "guid": "a8373f7a-6a03-4350-836a-333095c49c17",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "TheBestCouchPotatoList",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://n3rdmade.github.io/TBCPL/",
+            "visit_count": 16
+         }, {
+            "date_added": "13353091852784780",
+            "date_last_used": "13356118940680391",
+            "guid": "354df641-3ef6-4b9c-9063-0b85e1673249",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ironport3",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ironport3.iiita.ac.in/B0001D0000N0000N0000F0000S0000R0004/172.19.12.125/http://google.com",
+            "visit_count": 0
+         }, {
+            "date_added": "13341611282483961",
+            "date_last_used": "13371584468343367",
+            "guid": "68c27b29-9b80-4028-9fda-9ef95b9896c1",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "@munirsr – Figma",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.figma.com/@munirsr",
+            "visit_count": 4
+         }, {
+            "date_added": "13346144780273262",
+            "date_last_used": "0",
+            "guid": "19de80fc-63e4-430e-b15d-192d7afaefbb",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The Android Arsenal - A categorized directory of libraries and tools for Android",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://android-arsenal.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13332861053100967",
+            "date_last_used": "13364024580785642",
+            "guid": "d1998bf1-26a8-4faa-9182-a4753f85d67d",
+            "id": "23",
+            "name": "CodingNinjas",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mega.nz/folder/XOZygDbb#LTM6V-3bg1S3f_R4wKq0CQ",
+            "visit_count": 0
+         }, {
+            "date_added": "13346406282931555",
+            "date_last_used": "0",
+            "guid": "42acd543-851b-48fe-aa5a-f185ee384864",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Internship Resources.docx - Google Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1vqUyJK4xBD4dzBOZNY2_lfy_PGqFgdrV/edit",
+            "visit_count": 0
+         }, {
+            "date_added": "13361174106746793",
+            "date_last_used": "0",
+            "guid": "2a5b91ff-eb03-4673-ab35-9557cf678145",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SQL Server Interview Questions (2021) - InterviewBit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.interviewbit.com/sql-server-interview-questions/",
+            "visit_count": 0
+         }, {
+            "date_added": "13361174120570358",
+            "date_last_used": "0",
+            "guid": "2ada4c42-297c-48b7-8eec-1642cda609c1",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SQL Interview Questions CHEAT SHEET (2024) - InterviewBit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.interviewbit.com/sql-interview-questions/",
+            "visit_count": 0
+         }, {
+            "date_added": "13361174205855115",
+            "date_last_used": "0",
+            "guid": "0bc297fa-a34d-4d5c-bc25-1a1c0d7028db",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Object Oriented Programming (OOP) in C++ Course - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org",
+            "visit_count": 0
+         }, {
+            "date_added": "13361174281549845",
+            "date_last_used": "0",
+            "guid": "3081d88b-037d-4b89-9563-0eab6f6b9d60",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Last Minute Notes -LMNs - GeeksforGeeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/last-minute-notes-lmns/?ref=dhm",
+            "visit_count": 0
+         }, {
+            "date_added": "13361174303486628",
+            "date_last_used": "13361198509183086",
+            "guid": "e907ab40-e6ec-4bf5-a5cb-e4207304943f",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Puzzles - GeeksforGeeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/puzzles/",
+            "visit_count": 0
+         }, {
+            "date_added": "13361219556911183",
+            "date_last_used": "0",
+            "guid": "6581fe38-da30-415a-9d97-bd3e877cf28d",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Data Structures & Algorithms - Google Tech Dev Guide",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/",
+            "visit_count": 0
+         }, {
+            "date_added": "13361297848670749",
+            "date_last_used": "0",
+            "guid": "459972e8-0472-49d2-8687-857161e90178",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "React Native Tutorial for Beginners - Build a React Native App - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=0-S5a0eXPoc&ab_channel=ProgrammingwithMosh",
+            "visit_count": 0
+         }, {
+            "date_added": "13361299786261041",
+            "date_last_used": "0",
+            "guid": "80a58a35-35db-4c11-be31-3e194f4476ef",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "React Native Course for Beginners in 2024 | Build a Full Stack React Native App - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=ZBCUegTZF7M&ab_channel=JavaScriptMastery",
+            "visit_count": 0
+         }, {
+            "date_added": "13361384829359142",
+            "date_last_used": "0",
+            "guid": "e1e4c033-32eb-4bd7-a1ba-0edd9595e3b0",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Qualcomm Syllabus 2024 & Test Pattern PDF Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.freshersnow.com/qualcomm-syllabus/",
+            "visit_count": 0
+         }, {
+            "date_added": "13350574700865429",
+            "date_last_used": "13351946885791432",
+            "guid": "5a094bc2-554e-4216-99d7-be3f6c093762",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MoviesMod - 480p Movies, 720p Movies, 1080p Movies Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://moviesmod.dev/",
+            "visit_count": 0
+         }, {
+            "date_added": "13356292947572775",
+            "date_last_used": "13359848078693144",
+            "guid": "e7ed1cc5-585f-43a7-ab97-c7868f50c8e1",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GoStream - Watch Movies and Tv Series Online Free HD Streaming",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gostream.to/home",
+            "visit_count": 0
+         }, {
+            "date_added": "13352399675374703",
+            "date_last_used": "13357662938468943",
+            "guid": "27c17d56-fce9-47a1-b57d-601bfb7d6e7d",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch the series in English with subtitles",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://engvideo.net/en/serials/",
+            "visit_count": 0
+         }, {
+            "date_added": "13355770014744279",
+            "date_last_used": "13378485952801561",
+            "guid": "3e79b0e4-cc39-4f27-a3df-91bdb793b88c",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch HD Anime for Free - YugenAnime",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://yugenanime.tv/",
+            "visit_count": 3
+         }, {
+            "date_added": "13362139392656773",
+            "date_last_used": "13362219327090889",
+            "guid": "c6bc7bc3-2b37-49c8-acd1-bc3163a20900",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "tushar-prabhu/chat_app-springboot: A realtime group chat application, built using Java Spring Boot and WebSockets",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/tushar-prabhu/chat_app-springboot",
+            "visit_count": 0
+         }, {
+            "date_added": "13334125337984801",
+            "date_last_used": "13378376089638563",
+            "guid": "88e897c4-55eb-4e22-b337-52c6cf38bdc8",
+            "id": "39",
+            "name": "Mobile App Developer Jobs | Upwork™",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.upwork.com/nx/find-work/best-matches",
+            "visit_count": 3
+         }, {
+            "date_added": "13363626126687995",
+            "date_last_used": "0",
+            "guid": "0df3c377-1960-4428-a25d-19e9afbc05c3",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(24) Flutter Onboarding Screen | Onboarding tutorial Beginners - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=k3l3WRTv-Zk&ab_channel=TechHoverStudio",
+            "visit_count": 0
+         }, {
+            "date_added": "13363864967580174",
+            "date_last_used": "0",
+            "guid": "9825a3b8-2f37-43ec-8b3c-e78686d4df09",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Material Design",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors",
+            "visit_count": 0
+         }, {
+            "date_added": "13364113020046004",
+            "date_last_used": "0",
+            "guid": "834d86ad-a221-4c48-93d6-fd1d58c6bbcc",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(29) L8. Combination Sum | Recursion | Leetcode | C++ | Java - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=10&ab_channel=takeUforward",
+            "visit_count": 0
+         }, {
+            "date_added": "13364473750417886",
+            "date_last_used": "0",
+            "guid": "f7a46895-5664-441a-9a41-085de28a428c",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Practice | GeeksforGeeks | A computer science portal for geeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/explore?page=1&sprint=a663236c31453b969852f9ea22507634&sortBy=submissions&sprint_name=SDE%20Sheet&itm_medium=main_header&itm_campaign=practice_header",
+            "visit_count": 0
+         }, {
+            "date_added": "13365086767312371",
+            "date_last_used": "0",
+            "guid": "ee1d043b-f106-4b6b-985f-fd484d6bdfdf",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn Data Structures and Algorithms | DSA Tutorial - GeeksforGeeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm",
+            "visit_count": 0
+         }, {
+            "date_added": "13365099452305526",
+            "date_last_used": "0",
+            "guid": "2c3e991f-2110-4eb9-bf31-3fcf6a3aa9d7",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "String, Subsequence & Substring - GeeksforGeeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/string-subsequence-substring/",
+            "visit_count": 0
+         }, {
+            "date_added": "13367682599172251",
+            "date_last_used": "0",
+            "guid": "2cffe14d-37b8-41c2-a5d6-ea7fa254cb77",
+            "id": "46",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ironport4.iiita.ac.in/B0001D0000N0000N0000F0000S0000R0004/172.27.12.162/http://www.google.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ironport4.iiita.ac.in/B0001D0000N0000N0000F0000S0000R0004/172.27.12.162/http://www.google.com",
+            "visit_count": 0
+         }, {
+            "date_added": "13368603724243541",
+            "date_last_used": "0",
+            "guid": "aec6a3d7-f25a-4db6-9cf3-9f5bbe9602c9",
+            "id": "47",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AlgoMap - Free Data Structures & Algorithms Roadmap",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://algomap.io/",
+            "visit_count": 0
+         }, {
+            "date_added": "13370210834104130",
+            "date_last_used": "0",
+            "guid": "1927f1af-ce1c-4cd8-89b6-c8a9443ea37a",
+            "id": "48",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nunflix - Streaming World!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://nunflix.com/tv/94997",
+            "visit_count": 1
+         }, {
+            "date_added": "13372093500667506",
+            "date_last_used": "0",
+            "guid": "cd5474bf-d3c6-4112-aa7e-1778ca61029b",
+            "id": "49",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OOPS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.notion.so/OOPS-50969ffb5f574008b03111c91a0a2710",
+            "visit_count": 1
+         }, {
+            "date_added": "13377807515574581",
+            "date_last_used": "0",
+            "guid": "d0eafd59-aac9-4833-b529-f7782ff3d2f2",
+            "id": "50",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Aniwatch Free Anime Streaming Homepage",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aniwatchtv.to/home",
+            "visit_count": 1
+         }, {
+            "date_added": "13378294790081659",
+            "date_last_used": "0",
+            "guid": "805ab330-29b2-45f1-a052-767717f1fe46",
+            "id": "51",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YarrList – Ahoy, Mateys!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.yarrlist.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13378997728837465",
+            "date_last_used": "0",
+            "guid": "82cc8065-e13b-4ccc-a22d-060ec3915295",
+            "id": "52",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Reservation Charts",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.irctc.co.in/online-charts/",
+            "visit_count": 1
+         }, {
+            "date_added": "13380059974064153",
+            "date_last_used": "0",
+            "guid": "42c4b530-03dd-46aa-bd77-1308277d283c",
+            "id": "53",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Lucifer - Cinebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cinebook.xyz/tv/63174",
+            "visit_count": 1
+         }, {
+            "date_added": "13380060025511022",
+            "date_last_used": "0",
+            "guid": "3f1bcece-075d-4a56-afc0-9c5f99de47a2",
+            "id": "54",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cinebook - Review, Save, and Share Movies with Friends",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cinebook.xyz/tv/63174/2",
+            "visit_count": 1
+         }, {
+            "date_added": "13382299204987860",
+            "date_last_used": "0",
+            "guid": "92f5ebda-ba39-428b-9873-63b06482ede3",
+            "id": "55",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Problem - C - Codeforces",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://codeforces.com/contest/2061/problem/C",
+            "visit_count": 1
+         }, {
+            "date_added": "13382471750404704",
+            "date_last_used": "0",
+            "guid": "939fe30f-61eb-4351-922d-dd1fd6afda33",
+            "id": "56",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Greatest Common Divisor Traversal - LeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leetcode.com/problems/greatest-common-divisor-traversal/description/",
+            "visit_count": 1
+         }, {
+            "date_added": "13383146888278824",
+            "date_last_used": "0",
+            "guid": "bc550336-f5bd-4ca5-a300-c983ae9c40f1",
+            "id": "9",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13383146888278717",
+            "date_last_used": "0",
+            "guid": "10a3e6ed-f042-4f70-94be-dd5a297f87e8",
+            "id": "8",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13383146888278579",
+            "date_last_used": "0",
+            "guid": "6fcd0404-b6d6-424d-9b10-3828f3807706",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13383146888277622",
+            "date_last_used": "0",
+            "guid": "fe99ca37-3a0f-4e18-b28c-2f41f417803b",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         } ],
+         "date_added": "13383146888092622",
+         "date_last_used": "0",
+         "date_modified": "13383146888278824",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13383146888092624",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13383146888092626",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCOAe/dCUAQAAKg4QABgBIFwoBjAAOABAABIAKhhqNTRHa0VPTEgvQVdJM24zajk3ektnPT1IA6AGDBK1AQg4ErABChxpbnc5NmpKUDNLbzhUWDIwNTFsV21ZWjBJckU9EiQ5MzlmZTMwZi02MWViLTQzNTEtOTIyZC1kZDFmZDZhZmRhMzMYACACKAIw3+2GiM0yOJ3zjMbKMkCsloSIzTJKHDk2R1NIMkR0bTRaWmZMbkp5T2F1QUtiYmtWST1aJyIl/////wAAAAj7dDM0Q01aOUwvSFdMUGpybUJMNlVWQjBkdGRrPWWmJz3bwj4CYAUStQEINRKwAQocMThjejEvR1FENyttb3IrUEhmL1d2SVBaY3FvPRIkNDJjNGI1MzAtMDNkZC00NmFhLWJkNzctMTMwODI3N2QyODNjGAAgAigCMOCAh4jNMjiF34nIwTJAq5aEiM0yShw4cnJvMDMrM0owQ3I0RlNTWDNWcGhwd2ozWjQ9WiciJf////8AAAAI21BGYzA1NkJpQkRacDQ4QWR3eEpKZEFUL0F4UT1l+fNl+sI+AmAFErUBCBsSsAEKHFczZkJwNmFJQmxkZTY1QWROdjFqZ0hxRkMyND0SJDBiYzI5N2ZhLWEzNGQtNGQ1Yy1iYzI1LTFhMWMwZDcwMjhkYhgAIAIoAjDQ7YaIzTI4lv3RmvsxQKOWhIjNMkocRnZTQTd6L01QMzUrR2pSRkpjRUZ6dGc3YmlzPVonIiX/////AAAABO43OVJtcUExdDRtNVpnVkFHL3p3NDNyOVY2SGc9ZTj5OTPCPgJgBRK1AQguErABChwvZ0RVbUY1Y1BkWjRENTJESUhLemFFZHc1ZFE9EiQyY2ZmZTE0ZC0zN2I4LTQxYzItYTVkNi1lYTdmYTI1NGNiNzcYACAAKAAwv8OHspMyOO3Wh7KTMkDt1oeykzJKHHg5bnpNTVBYMEZCZ2UvcitWTGhwU2wyeEYyWT1aJyIl/////wAAAAesUjhsWVZTbUtaampHalhoYUZRK2hjZkVZYko4PWUQMP/kwj4CYAUSrwEIExKqAQoccWNXaHNZNjhVYVJvY2hNcGtadHVEZ0pqUkw0PRIkYTgzNzNmN2EtNmEwMy00MzUwLTgzNmEtMzMzMDk1YzQ5YzE3GAAgAigCMOOAh4jNMjjGja/+ujJAoZaEiM0yShxFOWRBVWRZSXNIdkpYRGFqeUVuWUJ3UldJdTA9WiEiH////DV6VkJGbUdHN2FqNVJFZ1Q1S0ZhL3ZBKzZnbz1lo54pA8I+AmAFErUBCDISsAEKHFlPQVpUNjVQdXJiNDh0ZHlsKzJVTGJGcGtzWT0SJGQwZWFmZDU5LWFhYzktNDgzMy1iNTI5LWY3NzgyZmYzZDJmMhgAIAIoAjDigIeIzTI4/P+ClrkyQKmWhIjNMkocczBUS1BsdXpFd3pra3kxZER1QTJuWDNtOXUwPVonIiX/////AAAAB/12VmhLeEtTOU5JVWUzWk0xRlBEamVwMjl0c0U9ZZE7oOnCPgJgBRKvAQgXEqoBChxQSkRjT01GSXZvc2R3ZjdtOXdFQy9ZUS9vRk09EiRkMTk5OGJmMS0yNmE4LTRmYWEtOTE4Mi1hNDc1M2Y4NWQ2N2QYACACKAIw2u2GiM0yOLew8N2RMUCiloSIzTJKHHJ4dVZicTlVOWl1Z3o3TTFldUxKRXN3bVY1MD1aISIf///+TXJ1U3pDa21RQ0JxK05kV0I1bmZiclhCZ1RJPWXvHQklwj4CYAUStQEILBKwAQocZE9OSW1CYVVqQ2h3S1FhcHpOS1h6WW9taVpnPRIkZWUxZDA0M2ItZjEwNi00YjZiLTk4NWYtZmQ0ODRkNmJkZmRmGAAgAigCMOHthojNMji67aXkiTJAp5aEiM0yShwwdkRJSGJvWTFXUmNMeGFlQnBqdUx4UUpvMEE9WiciJf////8AAAAG6Th0NngwcEQyMWZFVzZmWEljU2xHUGIyaktycz1lUaQpt8I+AmAFErUBCCsSsAEKHEJWTmhSYWpkNlRPRlE1QmQrSm83T1NDQjVETT0SJGY3YTQ2ODk1LTU2NjQtNDQxYS05YTQxLTA4NWRlMjhhNDI4YxgAIAIoAjDY7YaIzTI44Jz+v4cyQKeWhIjNMkocWUJZZGphb1h4cEMzOXUvZ1E0SG1qUmp3anlZPVonIiX/////AAAABtNCK1lMeXFNb2VQdXd5VlhvTXM5ZXN3RHorRkE9ZVGkKbfCPgJgBRK1AQgkErABChxwN0p4alFGWjUwMm9VT3dIU2Fya1FNNEtmWGM9EiQyN2MxN2Q1Ni1mY2U5LTQ3YTEtYjU3ZC02MDFiZmI3ZDZlN2QYACACKAIw2+2GiM0yOLaPz8LaMUClloSIzTJKHFpCSndCSlBFdmltdm5zUEJXRU9tOHZvSW83dz1aJyIl/////wAAAAX3ckdZYUREUzYwUWlGbmpKUGhLbVIvTVpubGFvPWWkIkEHwj4CYAUStQEIKhKwAQocNWs2UWFDM25OaWV2a3huYnpqUHY0MG5qUEUwPRIkODM0ZDg2YWQtYTIyMS00YzQ4LTkzZDYtZmQxZDU4YzZiYmNjGAAgAigCMOGAh4jNMjikhv2ThjJAp5aEiM0yShxiZUFvWXdUdUx3VGtmdUs4S295ME5nYjVkM2s9WiciJf////8AAAAGpjE5dU1oUWxVeWdqdkd5OVBuUWJONjVoK2FuOD1lOPk5M8I+AmAFErYBCCcSsQEKHFkrMW94Wit1bk5ONDZRK0U4WjhHRGZ2ZGk1Yz0SJDg4ZTg5N2M0LTU1ZWItNGUyMi1iMzM3LTUyYzZjZjM4YmRjOBgAIAIoAjDfgIeIzTI43YreuJYxQKaWhIjNMkocRUU2Szl1TUE5OHpxdmE0c2VmeEVtZHFSZVhrPVooIib/////AAAABf28UTRkVW5sZkIwWGduVnBCcTJtVVVEM3FBVU5JPWXvIn7Wwj4CYAUSrwEIEBKqAQocNlNpa2lJNHFFdVRlZVgzR25QNlFBZnFJTHg0PRIkYjIwMDRkMmMtNmY5Yi00NmRlLWI5ZmEtZjVmZGM0ZDg3ODY4GAAgAigCMNnthojNMjiZx8OB5jFAn5aEiM0yShxPcXFaR0VYYm5JcHBNRkdNUzRjNnRreVAxTE09WiEiH///81FLQnI0bm8zcmRlMERtRWF4MkViN1ZCK0FmND1lAcC068I+AmAFErUBCCMSsAEKHDNSSXhLcks1cnVjcE9GQUEra1dMUGVpaDdYVT0SJGU3ZWQxY2M1LTU4NWYtNDNhNy1hYjk3LWM3ODY4ZjUwYzhlMRgAIAIoAjDW7YaIzTI4vMKJg+kxQKWWhIjNMkocQndLZHduYlZrWWRkVFBGZWJjQzNTSkV1MTc4PVonIiX/////AAAABfVzNUVkNS9QV0U4TkNCNmdEU1R3SUZwZG1MaE09ZU+2mRHCPgJgBRK1AQghErABChxGWEtReElBeVlwMDEzeUVDV2hlRTdNNXVxMzg9EiRlMWU0YzAzMy0zMmViLTRiZDctYTFiYS0wZWRkOTU5NWUzYjAYACACKAIw1e2GiM0yOKynif/7MUCkloSIzTJKHHNBQmx0VG9lT1QzR0xzNXcxbVVtZkFjZWIrTT1aJyIl/////wAAAAWnMTZ4RHJkNzNscjBqYWY2QS9oci8vcFdQMWk0PWXwporlwj4CYAUStAEIIBKvAQocdm13aThVS2lGd1ZiaFhFZmh0eHJObURtVlNBPRIkODBhNThhMzUtMzVkYi00YzExLWJlMzEtM2UxOTRmNDQ3NmVmGAAgAigCMNPthojNMjia78LW+zFApJaEiM0yShxzQ2ZrUFU2Y3BzdmR1WTRXaEFVUHkzZll1V0E9WiYiJP////8AAAAFTm5mVXcvOEt4Y3FiYjBleEVNU0thS1Q4eG04PWU4+Tkzwj4CYAUStQEIHhKwAQocU2xtLzBWTEw1M0xCQXNxaFozQWxWcjQ3eldrPRIkNjU4MWZlMzgtZGEzMC00MTVhLTlkOTctYmQzZTg3N2NmMjhkGAAgAigCMNLthojNMjjj+aGw+zFAo5aEiM0yShx1WDc3eVFNelZmRllnWEFzODNSYXFTc2xuTW89WiciJf////8AAAAE/XhCQTJ5eXZOWitTbTdacXBCSDYvU1dTZlJoVT1lW5NPncI+AmAFErUBCDYSsAEKHGp6RFdmbFNheUI1OUZyRVJFbFM3cm9lR0oyST0SJDNmMWJjZWNlLTA3NWQtNGE1Ni1hZmMwLTljNWY5OWRlNDdhMhgAIAIoAjDk7YaIzTI44/SMyMEyQKuWhIjNMkocbFBOQzJSMEc3UWhqaURXV0h1TkZHK0FybUlNPVonIiX/////AAAACO01TVYwT2VBR2FiaXN3V3pnS3NmY3BYN0ZrYk09ZfnzZfrCPgJgBRKvAQgREqoBChxUcEJuMSs0SHdzeVBNeTRUN25OR3F5bVJneUk9EiRlMjdlZjc0Yi02MzhjLTQ3ODUtOWZlMC02ZTk5YzRmZmVkZTMYACACKAIw0e2GiM0yOK6z3KONMkCgloSIzTJKHGlvdlNOTjBkRDZkcUVRdThsT3FpQWMvT3VHOD1aISIf///3Z09VQ0N1bkVVZUFqL3BUV0pvVElNbnZ6WU9rPWUvbp2Wwj4CYAUStAEIHxKvAQocSTlVSUZWcjk0ZmRzUWo2MzN6anhuMCtoTHEwPRIkNDU5OTcyZTgtMDQ3Mi00OWQyLTg2ODctODU3MTYxZTkwMTc4GAAgAigCMN3thojNMjiexszV+zFApJaEiM0yShx0QUxKWUZ3eDhLbWdCcjgvRy9pVnlCU3J1Tnc9WiYiJP////8AAAAFQXhIWitDUGFld2sweTF4Z1dHd2lkelVWZTVrPWU4+Tkzwj4CYAUStQEIHBKwAQocUzFPaUFOQ0c5U242SEVpM0piWHpqaW1EVjhRPRIkMzA4MWQ4OGItMDM3ZC00Yjg5LTk1NjMtMGVhYjZmNmI5ZDYwGAAgAigCMNTthojNMjiDztaa+zFAo5aEiM0yShxHY2tFNEQ2VnBUSVpzQWt4Q2N5Y1d6VjhCM1U9WiciJf////8AAAAE91RUM1ppbWFXcjZVNFZOdm9DQVBRUW5NM2FoWT1lUaQpt8I+AmAFEq4BCAwSqQEKHEcybjNORXNFUVYydmkvZERPMm5WTXJHQkNDMD0SJGY2NDgzYTRjLThjOGUtNDgzMi05ZTcxLTc3MTI4M2JlZGEyNBgAIAIoAjDO7YaIzTI4i8bewdkwQJ6WhIjNMkocMzRPWVd1OVRYTGFhWm1CZE5tWWRvVEUyU3AwPVogIh7//DVyUFVhY3phYU5SZ3RPd2R3T0JnNEZzYTQzdz1lEDD/5MI+AmAFErUBCC0SsAEKHFErRGJWQXpvM0prbTNpdmJZOS9aMkZldit4TT0SJDJjM2U5OTFmLTIxMTAtNGViOS1iZjMxLTNmY2Y2YTNhYTlkNxgAIAIoAjDK7YaIzTI4q4qs6okyQKiWhIjNMkocNlJsdm0vcnJqSmE2NVlMbW1JR0FPc0FLNjlBPVonIiX/////AAAABvRJM3crOHRZVGU3RGh1R2hlR3RtSmExY1ZOL0k9ZVGkKbfCPgJgBRK1AQgaErABChxLTWE4TCs3b1A1bWEwV3RVbU9ZeXF4bnhldG89EiQyYWRhNGM0Mi0yOTdjLTQ4YjctOGVlYy0xNjQyY2RhNjA5YzEYACACKAIwy+2GiM0yOILjzJr7MUCiloSIzTJKHGFxTk5WYnpKUm9XWU52b3dzQldwa3g4OFBoMD1aJyIl/////wAAAATcR1A4Q3JBUlptNUpXa0pQMFBrYWUrbFVMdXc0PWX9ixuwwj4CYAUStQEIGRKwAQocaVdkUXRnZXFIcDlCcEJDYjNoSVpUL1pENzlBPRIkMmE1YjkxZmYtZWIwMy00NjczLWFiMzUtOTU1N2NmNjc4MTQ1GAAgAigCMM3thojNMjiS98ua+zFAopaEiM0yShxmd0J6cVlOZ0tqbTBRTGR5NkJ5QkVlSmRRc2M9WiciJf////8AAAAEuUxkUnppeU9NTHhFUkYva016YWlOdUludFZmcz1lwDgPHMI+AmAFErQBCCkSrwEKHE1pS2tSVS9QNjYraEFHamVSeWVXNDBTMnNDTT0SJDk4MjVhM2I4LTJmMzctNDNlYy04YjNjLWU3ODY4NmQ0ZGYwORgAIAIoAjDJ7YaIzTI4tY3ZnYUyQKaWhIjNMkocRldRbFVybWtvUUo0bXNGcjdaYWQ0SWhzR0EwPVomIiT/////AAAABkxVTU5Xdm13a05UdXlra2toZ0RNaHJaV1lFMD1l63smHcI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGY5Y2Q0MWRjLTVkZTQtNWI1Zi1hMjliLTVjYzBmYzMyYzNmORgAIAAoADDXqIn28i44oOzRvoAwQKDs0b6AMEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKvAQgWEqoBChxQZm1qUjh6SWN6WW1VUzNGZ0pUZ0RiaU5iKzA9EiQxOWRlODBmYy02M2U0LTQzMGUtYjE1ZC0xOTJkN2FmYWVmYmIYACACKAIwyO2GiM0yOKnWhpzDMUCiloSIzTJKHHN6bkt0d29CazZ0Vjg0RUYxVURTcloyaVhhZz1aISIf///+Q25BeDdxZnVoRUMrVFBpUXpwWm93S1VqdU1ZPWW7HOpnwj4CYAUSrwEIFRKqAQocemVLbkl4WWcwZllRY25XL2VwWGxHQlp6dnNzPRIkNjhjMjdiMjktOWI4MC00MDI4LTlmZGEtOWVmOTViOTg5NmMxGAAgAigCMN6Ah4jNMjj+kKiqsjFAoZaEiM0yShxGcWpidml1RGd5bXQxaFdXWlZCemFqR0J5SjA9WiEiH////WdMaUV3ckFPaFhBU3NWUlF2bHI5dFU3ZGFXcz1l7wCOh8I+AmAFErYBCCISsQEKHDJZNGhHeXJRMFkzdTAvWlF6aUxnT2RrVVJXMD0SJDVhMDk0YmMyLTU1NGUtNDIxNi05OWQ3LWJlM2Y2YzA5Mzc2MhgAIAIoAjDH7YaIzTI4gMqz3NMxQKSWhIjNMkoccHJmai9LTmJWbG9GU2hnaXhWQ0tucXZtVlBnPVooIib/////AAAABfS7dHJKb3M1WkNidjdiY2lYb2ZqRWdkT2c5VmZRPWXTEs+Zwj4CYAUSrwEIDxKqAQocWitUUW5PMmluM1dNVmVzYVpBeG9wWUFQVGNjPRIkMjhkY2E2Y2YtMGUwNi00MDY4LWFlNmMtMGFmYzQzYzcwZTZhGAAgAigCMMbthojNMjjm8NyjjTJAn5aEiM0yShwvTHRoVnBub1FnMThjOG00RzlWTDZVcTVxU1E9WiEiH///72xPTnhteCtNanhweDlNTnM2UVFNWVA5QlNaaz1lwDgPHMI+AmAFEq8BCBISqgEKHHlZSXEwQjFGTEo5dmpSMUx4RmNaYXE2SkxvUT0SJDMzYzQwMjYzLWU1NTQtNDA4ZC1hOGNmLTJkNDMzMTg5MjNkMxgAIAIoAjDE7YaIzTI486LLxLkxQKCWhIjNMkocZHdLUzlZZm5FcG1sZm5PZ2RnQUhKQkFyRVNZPVohIh////tHK09OcnU0WnhoallrT1BmTTdsNFUyY2UvcE09ZfqR3tvCPgJgBRK1AQglErABChx1Qm90RFZ6TDZFRnBoa2pHWHlzWWZmSHBkVkk9EiQzZTc5YjBlNC1jYzM5LTRmMjctYTNkZi05MWJkYjc5M2I4OGMYACACKAIw4+2GiM0yOKCR3InnMUClloSIzTJKHFp4ZmE3SURIM1QwUnNia0I5NnpVQkg2RlhFOD1aJyIl/////wAAAAX6dlZrRk9WZzg4dEczTGtQWXFFWjA0MExEdXZvPWV8mKAnwj4CYAUStQEIHRKwAQocWTZaUHB4WVZSVTM4VnNnVll4eW5PaHRXLzd3PRIkZTkwN2FiNDAtZTZlYy00YmY1LWE1Y2ItZTQyMDczMDQ5NDNmGAAgAigCMODthojNMjjg99ea+zFAo5aEiM0yShxSdDMxbVFNTWFVaTlySlFEZDduSEhnTkVyMmc9WiciJf////8AAAAE+0hLK0xyeUxVVnVGQUUwNitra0NCMS9QdnR5Yz1lUaQpt8I+AmAFEq8BCBQSqgEKHFpkcjZpbDBVY0twYjlNSGhaUzJ4YWNoY25Zdz0SJDM1NGRmNjQxLTNlZjYtNGI5Yy05MDYzLTBiODVlMTY3MzI0ORgAIAIoAjDc7YaIzTI47KXYjN0xQKGWhIjNMkocalcvRFBkTlZsTXo1USt4N2RLR2d5bDJ4QlYwPVohIh////xpY2VvdWZpZEUyZDRGbVRhZXZERElDSjVGNVk9ZRAw/+TCPgJgBRKvAQgOEqoBChxmWDFrN3F0MjJXT09xN3UwT1Z1Y1hTei9QT1U9EiQ1YTczZGEyZC1hYThjLTQ2YjQtYmExOS03MmIxNjg0MmFjZDYYACACKAIwz+2GiM0yOO7/sOTQMUCfloSIzTJKHDRQekFZOHhJano0OHEvZ3ZNZ21QOHh3U2NzVT1aISIf///sRHZyUytxU0M4SnlLK1VrT0g3SlhCVysrL3Q0PWXuRgdvwj4CYAUSrgEIDRKpAQocS1IveUw3U3RRbk41a05PbW9WUHQxaG96c0xNPRIkMmYxNjdjNTUtYjBjNC00NTQ1LTlhNTUtYjJiMTMzMzVkZjQ5GAAgAigCMMXthojNMjifqJTuqjFAnpaEiM0yShx5K2FFWnpwblZKUXlFcktPa2dKdHVwUzdYdUk9WiAiHv//d3VNR2w2RVBqb29lYjg3c1BHaHAwREpWYlQ0PWXI8z+7wj4CYAUStQEINxKwAQocWW5zT3NnbEYzWUxBQUlsczAvZStNZWFzaEVNPRIkOTJmNWViZGEtYmEzOS00MjhiLTk4NzMtNjNiMDY0ODJlZGUzGAAgAigCMMLthojNMjih0OnzyTJArJaEiM0yShxDd2pUa3VJNzRBOXlpYlY3TDZOOUN4dzE4WVk9WiciJf////8AAAAI9m1CazZWTGZrYkNTMm0zOWw0NlBjRjZyK05Bcz1l+aC1AsI+AmAFErQBCDMSrwEKHGdtdlMwRklDVERuYWxLU29TaXFjZWRwSXprND0SJDgwNWFiMzMwLTI5YjItNDVmMS1hMDUyLTc2NzcxN2YxZmU0NhgAIAIoAjDB7YaIzTI41euv/royQKmWhIjNMkocV3pDS1ZMSDlFb2F1UjhIVlY0bVRPNXI1d28wPVomIiT/////AAAACG5HbitlSWJZb1VSUFpyWmxpTjZQY0hGWnJJQT1lbgwG28I+AmAFEq4BCAoSqQEKHHNHWHQvVHRmb0NYUG0rK0x6dC9PK0JVR21LYz0SJDAyMzMxOTU1LTRjOWYtNGU3NS05MjViLTU5ZDQ5YWUxZWUzMRgAIAIoAjDdgIeIzTI41oKX5Y4xQJ2WhIjNMkocYTNxc0pZeURyMWhIQzVuY0hQbGNCampYOTVzPVogIh7/9lB5cDlQL2FpMkhsSEU3Vit6OUhhbW10SWdObz1l5VUW+8I+AmAFEq8BCBgSqgEKHDBpVDhMTXpMSzM1dFBvZmVwcGpsNXFHTC94cz0SJDQyYWNkNTQzLTg1MWItNDhmZS1hYTVhLWYxODVlZTM4NDg2NBgAIAIoAjDM7YaIzTI4ksLfmMQxQKKWhIjNMkocdjVUSkVJcHEzNXBlRVVOckZpTnJRTDJEWDJvPVohIh////9kd0NUM2FLNG02UnpQemxNYVorSzhoVGxkK2c9ZTnGtrDCPgJgBRK1AQgxErABChxud3UyeVhSNloxTWpMRG1vNjRlZ1B1WUhxZnc9EiRjZDU0NzRiZi1kM2M2LTQxMTItYWE3ZS0xNzc4Y2E2MTAyOWIYACACKAIw3u2GiM0yOOHsrvGjMkCploSIzTJKHHpULzl1OHNuNDFCNHlSNW5ncDllSk4rdFZuST1aJyIl/////wAAAAf1UjRFTnpNWkJpbXNIYm9hVyt3a0Q4VnV2UGtzPWXM8kkewj4CYAUSrgEICxKpAQocZU80enNVcG1wVVM0bGFPNDl3OFZIV1Y1TFdVPRIkMTljM2M3NjgtYzAyZC00MzZkLWE4ZjYtNzRjYThkMzZlZmQ5GAAgAigCMOXthojNMjjD3aPljjFAnZaEiM0yShxHTEdtMDFBRG5yZzNreXJENDU2Q1c5eDdLa009WiAiHv/7Q2dKdmUzaWhzelV6OHdPVVRJQmgvZUxhOERJPWX5oLUCwj4CYAUStQEINBKwAQocbTEvMFJDNmduczl0QlBvbVpmVU1jSmY2MTlrPRIkODJjYzgwNjUtZTEzYi00Y2NjLWEyMmQtMDYwZWMzOTE1Mjk1GAAgAigCMMDthojNMjiLysfNvTJAqpaEiM0yShxVb0tWT1hHckphZml4ekJkTURiSW8xMmRzWFk9WiciJf////8AAAAIt241NDVCbjFqQ2taNC9VejA0SXZMVEx4NndsVT1lzwVYe8I+AmAFErUBCC8SsAEKHHZBMHh2OHlWSjdhQjRrSDFFOHZDWHBCSmN3MD0SJGFlYzZhM2Q3LWYyNWEtNGRiNi05Y2YzLTlmNWJiZTk2MDJjORgAIAIoAjDi7YaIzTI4zO2n8ZYyQKiWhIjNMkocYzh5RThwMFNTblVkNjVFVTNlMGFWM1o2WmVRPVonIiX/////AAAAB9Y1bjd4VFNXMUlpY2FlOGd0T2tmYm1CdVRuZTg9ZYY5xtrCPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRjNGJmZjFlNS1hZDg3LTVmMGEtOWExYi1kYzEwYTY5NGE2ZDUYACAAKAAw3KiJ9vIuOI7t0b6AMECO7dG+gDBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAStQEIKBKwAQocOXQ5N29XcWVqVkFiNGI4RlJzaENUM3dDUFFRPRIkMGRmM2MzNzctMTk2MC00NDI4LWEyNWQtMTllOWFmYmMwNWMzGAAgAigCMNfthojNMjjAt+erhDJAppaEiM0yShx6dkI4VEZMSlhoS2VSZG1qVjUrMEZpZmZUSm89WiciJf////8AAAAF/kFwd2hOc1kwS2UxR0pzWVBuc3ZBS3dONWp6cz1lOPk5M8I+AmAFErUBCCYSsAEKHEJoWG1kMlkrbFlLNndHVCtOMDRkK1ZqelJ5VT0SJGM2YmM3YmMzLTJiMzctNDljOC1hY2QxLWJjMzE2M2EyMDkwMBgAIAIoAjC/7YaIzTI4hanw5v4xQKWWhIjNMkocV2cweWNRWHRrVnUrU2podjB4ODFOQlZXSUw0PVonIiX/////AAAABf15bERHRnpteFZtYXpSUmV6NWNIWDlRZ2hQcGM9ZcjzP7vCPgJgBRK1AQgwErABChxZbE5tczBJVzhwN2hZN0ZPK0dJVllBNXV1b1U9EiQxOTI3ZjFhZi1jZTFjLTRjZDgtODliNi1jOGE5NDQzZWEzN2EYACACKAIww+2GiM0yOMGo0u+cMkColoSIzTJKHG9qMk1OVmVYSWpwb1ZQWHQyeEdvbFpkNEYxaz1aJyIl/////wAAAAfrRmRuOTFjSnJOU0VtWXdmS29nWS8vT3J5UWgwPWVJLP/Xwj4CYAUSjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMzE1OGE3NDQtZTA2MC01MTg3LTkyZDQtNDRjNWIyZTI5ODNjGAAgACgAMNioifbyLjiw7NG+gDBAsOzRvoAwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
