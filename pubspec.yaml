@@ -44,17 +44,17 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: any
-  connectivity_plus: ^5.0.1
+  connectivity_plus: ^6.1.2
   persian_number_utility: ^1.1.3
   number_to_words_english: ^2.0.2
   path_provider: ^2.1.1
   open_file: ^3.3.2
   pdf: ^3.10.6
   document_file_save_plus: ^2.0.0
-  share_plus: ^7.2.1
+  share_plus: ^10.1.4
   encrypt: ^5.0.3
   permission_handler: ^11.0.1
-  file_picker: ^6.1.1
+  file_picker: ^8.3.1
   local_auth: ^2.1.7
   local_auth_android: ^1.0.35
   crypto: ^3.0.3
@@ -62,7 +62,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_launcher_icons: ^0.13.1
+  flutter_launcher_icons: ^0.14.3
 
 flutter_launcher_icons:
   android: "launcher_icon"
