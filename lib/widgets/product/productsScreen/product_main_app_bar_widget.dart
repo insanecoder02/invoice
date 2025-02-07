@@ -36,7 +36,7 @@ class ProductMainAppBarWidget extends StatelessWidget implements PreferredSizeWi
             fit: BoxFit.contain,
             child: Row(
               children: [
-                Text("${toPersianNumber(context, products.length.toString(), onlyConvert: true)} ${t(context).product}", style: Theme.of(context).textTheme.headlineSmall),
+                Text("${products.length.toString()} ${t(context).product}", style: Theme.of(context).textTheme.headlineSmall),
               ]
             ),
           )

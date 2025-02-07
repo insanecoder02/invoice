@@ -37,8 +37,8 @@ class _InvoiceProductsFormScreenState extends State<InvoiceProductsFormScreen> {
       setState(() => _isLoading = true);
 
       getGlobalFormState(context, listen: false).isCreateForm
-       ? _invoiceCreateProducts() 
-       : _updateInvoiceProducts();
+          ? _invoiceCreateProducts()
+          : _updateInvoiceProducts();
 
     } else {
       _showSnackBarErrorForm();
@@ -65,14 +65,14 @@ class _InvoiceProductsFormScreenState extends State<InvoiceProductsFormScreen> {
     formData["invoiceId"] = invoiceProductsState.invoice.id;
 
     InvoiceProductsTableSqliteDatabase().create(InvoiceProductModel.fromJson(formData), invoiceProductsState.invoice.id!)
-      .then((int id) {
-        setState(() => _isLoading = false);
-        InvoiceModel invoice = InvoiceModel.fromJson({...invoiceProductsState.invoice.toMap(), 'updatedAt': DateTime.now().toString()});
-        getInvoiceState(context, listen: false).updateInvoice(invoice);
-        getInvoiceProductsState(context, listen: false).updateInvoice(invoice);
-        invoiceProductsState.addInvoiceProduct(context, InvoiceProductModel.fromJson({...formData, 'id': id}));
-        navigatorByPop(context);
-      }).catchError((error) => _errorHandler(error));
+        .then((int id) {
+      setState(() => _isLoading = false);
+      InvoiceModel invoice = InvoiceModel.fromJson({...invoiceProductsState.invoice.toMap(), 'updatedAt': DateTime.now().toString()});
+      getInvoiceState(context, listen: false).updateInvoice(invoice);
+      getInvoiceProductsState(context, listen: false).updateInvoice(invoice);
+      invoiceProductsState.addInvoiceProduct(context, InvoiceProductModel.fromJson({...formData, 'id': id}));
+      navigatorByPop(context);
+    }).catchError((error) => _errorHandler(error));
   }
 
   dynamic _updateInvoiceProducts() {
@@ -95,14 +95,14 @@ class _InvoiceProductsFormScreenState extends State<InvoiceProductsFormScreen> {
     formData["invoiceId"] = invoiceProductsState.invoice.id;
 
     InvoiceProductsTableSqliteDatabase().update(InvoiceProductModel.fromJson(formData), invoiceProductsState.invoice.id!)
-      .then((int id) {
-        setState(() => _isLoading = false);
-        InvoiceModel invoice = InvoiceModel.fromJson({...invoiceProductsState.invoice.toMap(), 'updatedAt': DateTime.now().toString()});
-        getInvoiceState(context, listen: false).updateInvoice(invoice);
-        getInvoiceProductsState(context, listen: false).updateInvoice(invoice);
-        invoiceProductsState.updateInvoiceProduct(context, InvoiceProductModel.fromJson(formData));
-        navigatorByPop(context);
-      }).catchError((error) => _errorHandler(error));
+        .then((int id) {
+      setState(() => _isLoading = false);
+      InvoiceModel invoice = InvoiceModel.fromJson({...invoiceProductsState.invoice.toMap(), 'updatedAt': DateTime.now().toString()});
+      getInvoiceState(context, listen: false).updateInvoice(invoice);
+      getInvoiceProductsState(context, listen: false).updateInvoice(invoice);
+      invoiceProductsState.updateInvoiceProduct(context, InvoiceProductModel.fromJson(formData));
+      navigatorByPop(context);
+    }).catchError((error) => _errorHandler(error));
   }
 
   dynamic _errorHandler(dynamic error) {
@@ -120,26 +120,26 @@ class _InvoiceProductsFormScreenState extends State<InvoiceProductsFormScreen> {
         return Future.value(true);
       },
       child: Scaffold(
-        appBar: AppBar(
-          title: Text(globalFormState.isCreateForm ? t(context).productCreate : t(context).productEdit, style: Theme.of(context).textTheme.headlineLarge),
-          actions: [
-            IconButton(
-              icon: const Icon(Icons.check, size: 30.0),
-              onPressed: !_isLoading ? _onProcessForm : null,
-            ),
-            const SizedBox(width: 10.0),
-          ],
-        ),
-        body: ListView(
-          padding: const EdgeInsets.symmetric(vertical: 20.0),
-          physics: const ClampingScrollPhysics(),
-          children: [
-            Form(
-              key: _formKey,
-              child: InvoiceProductsTextFormFieldsWidget(_existsError),
-            )
-          ],
-        )
+          appBar: AppBar(
+            title: Text(globalFormState.isCreateForm ? t(context).productCreate : t(context).productEdit, style: Theme.of(context).textTheme.headlineLarge),
+            actions: [
+              IconButton(
+                icon: const Icon(Icons.check, size: 30.0),
+                onPressed: !_isLoading ? _onProcessForm : null,
+              ),
+              const SizedBox(width: 10.0),
+            ],
+          ),
+          body: ListView(
+            padding: const EdgeInsets.symmetric(vertical: 20.0),
+            physics: const ClampingScrollPhysics(),
+            children: [
+              Form(
+                key: _formKey,
+                child: InvoiceProductsTextFormFieldsWidget(_existsError),
+              )
+            ],
+          )
       ),
     );
   }

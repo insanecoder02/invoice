@@ -5,7 +5,7 @@ import 'package:invoice/widgets/invoiceProducts/invoiceProductsScreen/invoice_pr
 import 'package:invoice/widgets/invoiceProducts/invoiceProductsScreen/invoice_products_floating_action_button_widget.dart';
 
 class InvoiceProductsScreen extends StatelessWidget {
-  
+
   final bool redirectToCustomerInvoicesEnable;
 
   const InvoiceProductsScreen({

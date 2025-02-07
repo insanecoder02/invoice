@@ -8,7 +8,7 @@ import 'package:invoice/widgets/customer/customersScreen/customer_search_app_bar
 import 'package:invoice/widgets/global/scroll/scroll_top_widget.dart';
 
 class CustomersScreen extends StatelessWidget {
-  
+
   const CustomersScreen({super.key});
 
   Future<bool> _willPopScopeHandler(BuildContext context) async {
@@ -29,17 +29,17 @@ class CustomersScreen extends StatelessWidget {
     GlobalSearchState globalSearchState = getGlobalSearchState(context);
 
     return WillPopScope(
-      onWillPop: () => _willPopScopeHandler(context),
-      child: Scaffold(
-        resizeToAvoidBottomInset: false,
-        appBar: {
-          'mainAppBar': const CustomerMainAppBarWidget(),
-          'searchAppBar': const CustomerSearchAppBarWidget()
-        }[globalSearchState.appBarType.name],
-        body: const CustomerListWidget(),
-        floatingActionButton: ScrollTopWidget(getCustomerState(context, listen: false).scrollController),
-        floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat
-      )
+        onWillPop: () => _willPopScopeHandler(context),
+        child: Scaffold(
+            resizeToAvoidBottomInset: false,
+            appBar: {
+              'mainAppBar': const CustomerMainAppBarWidget(),
+              'searchAppBar': const CustomerSearchAppBarWidget()
+            }[globalSearchState.appBarType.name],
+            body: const CustomerListWidget(),
+            floatingActionButton: ScrollTopWidget(getCustomerState(context, listen: false).scrollController),
+            floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat
+        )
     );
   }
 }

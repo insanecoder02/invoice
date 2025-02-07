@@ -41,16 +41,9 @@ class BootstrapPlugin {
   }
 
   dynamic _localeBoot() {
-    if(! _prefs.containsKey(Config.localeLable)) {
-      return _prefs.setString(Config.localeLable, Locale.en.name);
-    }
-
-    String? localePrefs = _prefs.getString(Config.localeLable);
-
-    if (_listLocale.contains(localePrefs)) {
-      getSettingState(context, listen: false).changeLocale(localePrefs == Locale.en.name ? Locale.en : Locale.fa);
-    }
+    getSettingState(context, listen: false).changeLocale(Locale.en);
   }
+
 
   dynamic _themeModeBoot() {
     if(! _prefs.containsKey(Config.themeModeLable)) {

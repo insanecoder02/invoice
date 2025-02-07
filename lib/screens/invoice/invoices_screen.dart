@@ -9,7 +9,7 @@ import 'package:invoice/widgets/invoice/invoicesScreen/invoice_list_widget.dart'
 import 'package:invoice/widgets/global/scroll/scroll_top_widget.dart';
 
 class InvoicesScreen extends StatelessWidget {
-  
+
   const InvoicesScreen({super.key});
 
   Future<bool> _willPopScopeHandler(BuildContext context) {
@@ -36,18 +36,18 @@ class InvoicesScreen extends StatelessWidget {
     GlobalSearchState globalSearchState = getGlobalSearchState(context);
 
     return WillPopScope(
-      onWillPop: () => _willPopScopeHandler(context),
-      child: Scaffold(
-        resizeToAvoidBottomInset: false,
-        appBar: {
-          'mainAppBar': const InvoiceMainAppBarWidget(),
-          'searchAppBar': const InvoiceSearchAppBarWidget()
-        }[globalSearchState.appBarType.name],
-        body: const InvoiceListWidget(),
-        bottomNavigationBar: isSelectedInvoice ? const InvoiceBottomNavigationBarWidget() : null,
-        floatingActionButton: ScrollTopWidget(getInvoiceState(context, listen: false).invoiceScrollController),
-        floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat
-      )
+        onWillPop: () => _willPopScopeHandler(context),
+        child: Scaffold(
+            resizeToAvoidBottomInset: false,
+            appBar: {
+              'mainAppBar': const InvoiceMainAppBarWidget(),
+              'searchAppBar': const InvoiceSearchAppBarWidget()
+            }[globalSearchState.appBarType.name],
+            body: const InvoiceListWidget(),
+            bottomNavigationBar: isSelectedInvoice ? const InvoiceBottomNavigationBarWidget() : null,
+            floatingActionButton: ScrollTopWidget(getInvoiceState(context, listen: false).invoiceScrollController),
+            floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat
+        )
     );
   }
 }

@@ -6,7 +6,7 @@ import 'package:invoice/states/setting_state.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class LanguageScreen extends StatefulWidget {
-  
+
   const LanguageScreen({super.key});
 
   @override
@@ -19,16 +19,25 @@ class _LanguageScreenState extends State<LanguageScreen> {
   void initState() {
     super.initState();
 
-    if(! Config.features.contains(FeaturesApp.multiLanguage)) {
+    if (!Config.features.contains(FeaturesApp.multiLanguage)) {
       navigatorByPop(context);
     }
+
+    // Set English as default language if no language is set
+    SharedPreferences.getInstance().then((SharedPreferences prefs) {
+      String? savedLocale = prefs.getString(Config.localeLable);
+      if (savedLocale == null || savedLocale != Locale.en.name) {
+        setLocale(context, Locale.en);
+      }
+    });
   }
+
 
   checkLocale(Locale locale) => getSettingState(context).locale == locale;
 
   void setLocale(BuildContext context, Locale locale) {
     getSettingState(context, listen: false).changeLocale(locale);
-    
+
     SharedPreferences.getInstance().then((SharedPreferences prefs){
       prefs.setString(Config.localeLable, locale.name);
     });
@@ -48,12 +57,12 @@ class _LanguageScreenState extends State<LanguageScreen> {
             trailing: checkLocale(Locale.en) ? Icon(Icons.check, color: Config.brandColor, size: 30.0) : null,
             onTap: () => setLocale(context, Locale.en)
           ),
-          const Divider(endIndent: 20.0, indent: 20.0),
-          ListTile(
-            title: const Text('فارسی'),
-            trailing: checkLocale(Locale.fa) ? Icon(Icons.check, color: Config.brandColor, size: 30.0) : null,
-            onTap: () => setLocale(context, Locale.fa)
-          )
+          // const Divider(endIndent: 20.0, indent: 20.0),
+          // ListTile(
+          //   title: const Text('فارسی'),
+          //   trailing: checkLocale(Locale.fa) ? Icon(Icons.check, color: Config.brandColor, size: 30.0) : null,
+          //   onTap: () => setLocale(context, Locale.fa)
+          // )
         ],
       )
     );

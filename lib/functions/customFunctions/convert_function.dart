@@ -10,11 +10,11 @@ import 'package:crypto/crypto.dart';
 AppLocalizations t(BuildContext context) => AppLocalizations.of(context)!;
 
 String toPersianNumber(BuildContext context, String value, {bool onlyConvert = false}) {
-  return onlyConvert ? isRTL(context) ? value.toPersianDigit() : value : isRTL(context) ? value.toPersianDigit().seRagham() : value.seRagham();
+  return value;
 }
 
 String toChar(BuildContext context, String value) {
-  return isRTL(context) ? value.toWord() : NumberToWordsEnglish.convert(int.parse(value));
+  return NumberToWordsEnglish.convert(int.parse(value));
 }
 
 String toHash(String value) {

@@ -11,10 +11,10 @@ class InvoicesBookmarksScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: const InvoicesBookmarksAppBarWidget(),
-      body: const InvoicesBookmarksListWidget(),
-      floatingActionButton: ScrollTopWidget(getInvoiceState(context, listen: true).invoiceScrollController),
-      floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat
+        appBar: const InvoicesBookmarksAppBarWidget(),
+        body: const InvoicesBookmarksListWidget(),
+        floatingActionButton: ScrollTopWidget(getInvoiceState(context, listen: true).invoiceScrollController),
+        floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat
     );
   }
 }
