@@ -237,7 +237,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get payable => 'Payable';
 
   @override
-  String get rial => 'Rial';
+  String get rial => 'Rupees';
 
   @override
   String get category => 'Category';
@@ -305,7 +305,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get discountDescription => 'The discount fields can be empty, which is equivalent to zero or no discount.';
 
   @override
-  String get nationalCode => 'National code';
+  String get nationalCode => 'Adhar Card No.';
 
   @override
   String get latestInvoices => 'Last registered or changed invoices';

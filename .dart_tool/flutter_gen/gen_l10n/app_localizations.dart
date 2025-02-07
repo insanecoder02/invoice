@@ -552,7 +552,7 @@ abstract class AppLocalizations {
   /// No description provided for @rial.
   ///
   /// In en, this message translates to:
-  /// **'Rial'**
+  /// **'Rupees'**
   String get rial;
 
   /// No description provided for @category.
@@ -684,7 +684,7 @@ abstract class AppLocalizations {
   /// No description provided for @nationalCode.
   ///
   /// In en, this message translates to:
-  /// **'National code'**
+  /// **'Adhar Card No.'**
   String get nationalCode;
 
   /// No description provided for @latestInvoices.
